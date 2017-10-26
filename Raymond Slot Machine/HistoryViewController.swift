@@ -2,7 +2,7 @@
 //  HistoryViewController.swift
 //  Raymond Slot Machine
 //
-//  Created by Daniel Beltre on 10/24/17.
+//  Created by Raymond Perez on 10/24/17.
 //  Copyright © 2017 Raymond Perez. All rights reserved.
 //
 
@@ -10,6 +10,7 @@ import Foundation
 import UIKit
 
 class HistoryViewController: UIViewController, UITableViewDelegate, UITableViewDataSource{
+    
     
     var beFilled = [String]()
     

@@ -2,7 +2,7 @@
 //  FirstViewController.swift
 //  Raymond Slot Machine
 //
-//  Created by Daniel Beltre on 10/23/17.
+//  Created by Raymond Perez on 10/23/17.
 //  Copyright © 2017 Raymond Perez. All rights reserved.
 //
 
@@ -10,6 +10,7 @@ import UIKit
 
 class FirstViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
