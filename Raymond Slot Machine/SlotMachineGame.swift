@@ -2,13 +2,14 @@
 //  SlotMachineGame.swift
 //  Raymond Slot Machine
 //
-//  Created by Daniel Beltre on 10/23/17.
+//  Created by Raymond Perez on 10/23/17.
 //  Copyright © 2017 Raymond Perez. All rights reserved.
 //
 
 import Foundation
 
 class SlotMachineGame{
+    
     
     private var slots: [Digit] = []
     

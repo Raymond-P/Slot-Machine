@@ -2,7 +2,7 @@
 //  Digit.swift
 //  Raymond Slot Machine
 //
-//  Created by Daniel Beltre on 10/23/17.
+//  Created by Raymond Perez on 10/23/17.
 //  Copyright © 2017 Raymond Perez. All rights reserved.
 //
 
@@ -10,6 +10,7 @@ import Foundation
 import UIKit
 
 class Digit{
+    
     
     private var color : UIColor = UIColor.black  // initial color game hasn't started
     private var digit : UInt32 = UInt32(0)       // initial digit game hasn't started
